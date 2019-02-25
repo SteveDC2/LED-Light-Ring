@@ -1,0 +1,111 @@
+Added Component: Designator=1(0603)
+Added Component: Designator=C1(0603)
+Added Component: Designator=J1(Samtec_TSW-103-07-T-S)
+Added Component: Designator=J2(CONN_CUI-PJ-202AH)
+Added Component: Designator=J3(Mill-Max_850-10-005-20-001000)
+Added Component: Designator=J4(Mill-Max_850-10-005-20-001000)
+Added Component: Designator=J5(Samtec_TS-104-x-AA)
+Added Component: Designator=R1(CTS_296UD)
+Added Component: Designator=R2(Bourns_3386F-T)
+Added Component: Designator=SW1(SW_RS-032G05A3-SM)
+Added Component: Designator=U1(WS2812B)
+Added Component: Designator=U3(WS2812B)
+Added Component: Designator=U4(WS2812B)
+Added Component: Designator=U5(WS2812B)
+Added Component: Designator=U6(WS2812B)
+Added Component: Designator=U7(WS2812B)
+Added Component: Designator=U8(D0008A_M)
+Added Component: Designator=U9(WS2812B)
+Added Component: Designator=U10(WS2812B)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=GND Pin=J4-5
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Pin To Net: NetName=GND Pin=R1-3
+Added Pin To Net: NetName=GND Pin=R2-3
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U7-3
+Added Pin To Net: NetName=GND Pin=U8-8
+Added Pin To Net: NetName=GND Pin=U9-3
+Added Pin To Net: NetName=GND Pin=U10-3
+Added Net: Name=GND
+Added Pin To Net: NetName=Net1_2 Pin=1-2
+Added Pin To Net: NetName=Net1_2 Pin=SW1-2
+Added Pin To Net: NetName=Net1_2 Pin=U8-3
+Added Net: Name=Net1_2
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U8-4
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=U10-4
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=J4-3
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Pin To Net: NetName=NetJ3_3 Pin=U1-2
+Added Net: Name=NetJ3_3
+Added Pin To Net: NetName=NetJ3_4 Pin=J3-4
+Added Pin To Net: NetName=NetJ3_4 Pin=J4-4
+Added Pin To Net: NetName=NetJ3_4 Pin=U8-5
+Added Net: Name=NetJ3_4
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ5_2 Pin=U8-6
+Added Net: Name=NetJ5_2
+Added Pin To Net: NetName=NetJ5_3 Pin=J5-3
+Added Pin To Net: NetName=NetJ5_3 Pin=U8-7
+Added Net: Name=NetJ5_3
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-2
+Added Pin To Net: NetName=NetR1_2 Pin=U8-2
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetU1_4 Pin=U1-4
+Added Pin To Net: NetName=NetU1_4 Pin=U3-2
+Added Net: Name=NetU1_4
+Added Pin To Net: NetName=NetU3_4 Pin=U3-4
+Added Pin To Net: NetName=NetU3_4 Pin=U4-2
+Added Net: Name=NetU3_4
+Added Pin To Net: NetName=NetU4_4 Pin=U4-4
+Added Pin To Net: NetName=NetU4_4 Pin=U5-2
+Added Net: Name=NetU4_4
+Added Pin To Net: NetName=NetU5_4 Pin=U5-4
+Added Pin To Net: NetName=NetU5_4 Pin=U6-2
+Added Net: Name=NetU5_4
+Added Pin To Net: NetName=NetU6_4 Pin=U6-4
+Added Pin To Net: NetName=NetU6_4 Pin=U7-2
+Added Net: Name=NetU6_4
+Added Pin To Net: NetName=NetU7_4 Pin=U7-4
+Added Pin To Net: NetName=NetU7_4 Pin=U9-2
+Added Net: Name=NetU7_4
+Added Pin To Net: NetName=NetU9_4 Pin=U9-4
+Added Pin To Net: NetName=NetU9_4 Pin=U10-2
+Added Net: Name=NetU9_4
+Added Pin To Net: NetName=P3V3 Pin=1-1
+Added Pin To Net: NetName=P3V3 Pin=C1-1
+Added Pin To Net: NetName=P3V3 Pin=J3-2
+Added Pin To Net: NetName=P3V3 Pin=J4-2
+Added Pin To Net: NetName=P3V3 Pin=J5-1
+Added Pin To Net: NetName=P3V3 Pin=R1-1
+Added Pin To Net: NetName=P3V3 Pin=R2-1
+Added Pin To Net: NetName=P3V3 Pin=U8-1
+Added Net: Name=P3V3
+Added Pin To Net: NetName=P5V Pin=J2-1
+Added Pin To Net: NetName=P5V Pin=J3-1
+Added Pin To Net: NetName=P5V Pin=J4-1
+Added Pin To Net: NetName=P5V Pin=U1-1
+Added Pin To Net: NetName=P5V Pin=U3-1
+Added Pin To Net: NetName=P5V Pin=U4-1
+Added Pin To Net: NetName=P5V Pin=U5-1
+Added Pin To Net: NetName=P5V Pin=U6-1
+Added Pin To Net: NetName=P5V Pin=U7-1
+Added Pin To Net: NetName=P5V Pin=U9-1
+Added Pin To Net: NetName=P5V Pin=U10-1
+Added Net: Name=P5V
+Added Class: Name=Header
+Added Class: Name=LEDLightRing

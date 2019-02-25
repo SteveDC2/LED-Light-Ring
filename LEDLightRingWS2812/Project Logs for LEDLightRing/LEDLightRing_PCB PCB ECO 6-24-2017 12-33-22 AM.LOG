@@ -1,0 +1,8 @@
+Change Component DesignItemId : Designator=J3 Old DesignItemId=850-10-005-20-001000 New DesignItemId=TSW-105-07-G-S
+Change Component DesignItemId : Designator=J4 Old DesignItemId=850-10-005-20-001000 New DesignItemId=TSW-105-07-G-S
+Change Component Footprint: Designator=J3 Old Footprint=Mill-Max_850-10-005-20-001000 New Footprint=TSW-105-07-G-S
+Change Component Footprint: Designator=J4 Old Footprint=Mill-Max_850-10-005-20-001000 New Footprint=TSW-105-07-G-S
+Change Component Comment : Designator=J3 Old Comment=850-10-005-20-001000 New Comment=TSW-105-07-G-S
+Change Component Comment : Designator=J4 Old Comment=850-10-005-20-001000 New Comment=TSW-105-07-G-S
+Added Member To Class: ClassName=Header Member=Component J3 TSW-105-07-G-S
+Added Member To Class: ClassName=Header Member=Component J4 TSW-105-07-G-S

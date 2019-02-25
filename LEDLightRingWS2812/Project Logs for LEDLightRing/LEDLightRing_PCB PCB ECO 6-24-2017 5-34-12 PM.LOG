@@ -1,0 +1,24 @@
+Change Component Footprint: Designator=U2 Old Footprint=WS2812B New Footprint=WS2812
+Change Component Footprint: Designator=U3 Old Footprint=WS2812B New Footprint=WS2812
+Change Component Footprint: Designator=U4 Old Footprint=WS2812B New Footprint=WS2812
+Change Component Footprint: Designator=U5 Old Footprint=WS2812B New Footprint=WS2812
+Change Component Footprint: Designator=U6 Old Footprint=WS2812B New Footprint=WS2812
+Change Component Footprint: Designator=U7 Old Footprint=WS2812B New Footprint=WS2812
+Change Component Footprint: Designator=U8 Old Footprint=WS2812B New Footprint=WS2812
+Change Component Footprint: Designator=U9 Old Footprint=WS2812B New Footprint=WS2812
+Added Pin To Net: NetName=P5V Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=P5V Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Pin To Net: NetName=P5V Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U4-6
+Added Pin To Net: NetName=P5V Pin=U5-5
+Added Pin To Net: NetName=GND Pin=U5-6
+Added Pin To Net: NetName=P5V Pin=U6-5
+Added Pin To Net: NetName=GND Pin=U6-6
+Added Pin To Net: NetName=P5V Pin=U7-5
+Added Pin To Net: NetName=GND Pin=U7-6
+Added Pin To Net: NetName=P5V Pin=U8-5
+Added Pin To Net: NetName=GND Pin=U8-6
+Added Pin To Net: NetName=NetD1_3 Pin=U9-5
+Added Pin To Net: NetName=GND Pin=U9-6

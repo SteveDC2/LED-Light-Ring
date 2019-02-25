@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Pcbs\LEDLightRingWS2812\LEDLightRing_2812.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=ledlightring_2812-roundholes.txt|DrillLayers=gtl,g1,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=ledlightring_2812-slotholes.txt|DrillLayers=gtl,g1,gbl

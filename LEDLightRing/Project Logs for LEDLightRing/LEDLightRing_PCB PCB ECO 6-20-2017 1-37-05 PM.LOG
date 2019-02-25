@@ -1,0 +1,6 @@
+Added Component: Designator=U2(DBV0005A_N)
+Added Pin To Net: NetName=P5V Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=P5V Pin=U2-3
+Added Pin To Net: NetName=P3V3 Pin=U2-5
+Added Member To Class: ClassName=LEDLightRing Member=Component U2 TPS73633DBV

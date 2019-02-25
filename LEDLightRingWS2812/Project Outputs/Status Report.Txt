@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LEDLightRing.PrjPcb]
+   Generated File[LEDLightRing_2812-RoundHoles.TXT]
+   Generated File[LEDLightRing_2812-SlotHoles.TXT]
+   Generated File[LEDLightRing_2812.LDP]
+   Generated File[LEDLightRing_2812.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:34:10 AM On 7/24/2017

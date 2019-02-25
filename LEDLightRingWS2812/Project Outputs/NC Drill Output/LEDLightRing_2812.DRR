@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: LEDLightRing_2812.PcbDoc   7/24/2017  10:34:10 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : LEDLightRing_2812-RoundHoles.TXT
+ASCII SlotHoles File : LEDLightRing_2812-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             18        PTH        6.31inch (160.22mm)
+T2      33mil (0.85mm)                                            Round             3         PTH        0.42inch (10.76mm)
+T3      39mil (1mm)                                               Slot              3         PTH        1.22inch (31.08mm)
+T4      40mil (1.016mm)                                           Round             8         PTH        2.49inch (63.12mm)
+T5      40mil (1.02mm)                                            Round             6         PTH        0.86inch (21.92mm)
+T6      55mil (1.4mm)                                             Round             3         PTH        0.30inch (7.50mm)
+T7      66mil (1.68mm)                                            Slot              2         PTH        0.96inch (24.40mm)
+T8      126mil (3.2mm)                                            Round             4         PTH        3.82inch (96.99mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              47
+
+Total Processing Time (hh:mm:ss) : 00:00:00

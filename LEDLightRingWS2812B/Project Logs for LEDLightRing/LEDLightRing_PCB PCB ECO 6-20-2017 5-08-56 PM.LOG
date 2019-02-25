@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=P3V3 Pin=J5-1
+Removed Pin From Net: NetName=GND Pin=J5-4
+Removed Pin From Net: NetName=NetJ5_2 Pin=U10-6
+Change Component DesignItemId : Designator=J5 Old DesignItemId=TS-104-G-AA New DesignItemId=TSW-103-07-T-S
+Change Component Footprint: Designator=J5 Old Footprint=Samtec_TS-104-x-AA New Footprint=Samtec_TSW-103-07-T-S
+Change Component Comment : Designator=J5 Old Comment=TSW-104-07-T-S New Comment=TSW-103-07-T-S
+Added Pin To Net: NetName=GND Pin=J5-3
+Added Pin To Net: NetName=NetJ5_2 Pin=U10-7
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_1 Pin=U10-6
+Added Net: Name=NetJ5_1
+Added Member To Class: ClassName=LEDLightRing Member=Component R1 296UD104B1N

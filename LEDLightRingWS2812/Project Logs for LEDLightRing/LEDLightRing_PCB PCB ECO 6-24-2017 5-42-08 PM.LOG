@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=J4-2
+Removed Pin From Net: NetName=NetJ1_3 Pin=J4-3
+Removed Pin From Net: NetName=NetJ3_2 Pin=J4-4
+Removed Pin From Net: NetName=P5V Pin=J4-5
+Change Component DesignItemId : Designator=J3 Old DesignItemId=TSW-105-07-G-S New DesignItemId=TSW-104-07-G-S
+Change Component DesignItemId : Designator=J4 Old DesignItemId=TSW-105-07-G-S New DesignItemId=TSW-104-07-G-S
+Change Component Footprint: Designator=J3 Old Footprint=TSW-105-07-G-S New Footprint=TSW-104-07-G-S
+Change Component Footprint: Designator=J4 Old Footprint=TSW-105-07-G-S New Footprint=TSW-104-07-G-S
+Change Component Comment : Designator=J3 Old Comment=TSW-105-07-G-S New Comment=TSW-104-07-G-S
+Change Component Comment : Designator=J4 Old Comment=TSW-105-07-G-S New Comment=TSW-104-07-G-S
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=NetJ1_3 Pin=J4-2
+Added Pin To Net: NetName=NetJ3_2 Pin=J4-3
+Added Pin To Net: NetName=P5V Pin=J4-4

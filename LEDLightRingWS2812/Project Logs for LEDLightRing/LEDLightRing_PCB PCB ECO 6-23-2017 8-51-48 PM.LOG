@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=P5V Pin=U9-1
+Added Component: Designator=D1(SOT-23)
+Added Pin To Net: NetName=P5V Pin=D1-1
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Pin To Net: NetName=NetD1_3 Pin=U9-1
+Added Net: Name=NetD1_3
+Added Member To Class: ClassName=LEDLightRing Member=Component D1 MMBD914

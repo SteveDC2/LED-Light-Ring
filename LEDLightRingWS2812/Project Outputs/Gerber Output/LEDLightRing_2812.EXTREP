@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: LEDLightRing_2812.GBR   7/24/2017  10:33:49 AM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GPB                Bottom Pad Master                       
+.GPT                Top Pad Master                          
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GKO                Keep-Out Layer                          
+.GM1                Mechanical 1                            
+.GM3                Mechanical 3                            
+.GM5                Mechanical 5                            
+.GM13               Mechanical 13                           
+.GM15               Mechanical 15                           
+------------------------------------------------------------------------------------------

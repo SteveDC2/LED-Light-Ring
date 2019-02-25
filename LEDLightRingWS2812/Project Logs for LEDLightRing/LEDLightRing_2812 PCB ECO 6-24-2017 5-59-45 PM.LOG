@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Added Pin To Net: NetName=P3V3 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-3
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetR3_2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-2
+Added Pin To Net: NetName=NetR1_2 Pin=U10-2
+Added Net: Name=NetR1_2
+Added Member To Class: ClassName=LEDLightRing Member=Component R3 CRCW060310K0JNEA
